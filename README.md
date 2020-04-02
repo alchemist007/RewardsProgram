@@ -8,29 +8,29 @@ Given a record of every transaction during a three month period, calculate the r
 - Make up a data set to best demonstrate your solution
 - Check solution into GitHub
 
-Input File Format:
-Customer 1
-Month_1 of transaction
-Transaction_1 Transaction_2 Transaction_3..... Transaction_n.
-Month_2 of transaction
-Transaction_1 Transaction_2 Transaction_3..... Transaction_n.
-Month_3 of transaction
-Transaction_1 Transaction_2 Transaction_3..... Transaction_n.
-.
-.
-.
-Customer N
-Month_1 of transaction
-Transaction_1 Transaction_2 Transaction_3..... Transaction_n.
-Month_2 of transaction
-Transaction_1 Transaction_2 Transaction_3..... Transaction_n.
-Month_3 of transaction
-Transaction_1 Transaction_2 Transaction_3..... Transaction_n.
+Input File Format: <br/>
+Customer 1 <br/>
+Month_1 of transaction <br/>
+Transaction_1 Transaction_2 Transaction_3..... Transaction_n.<br/>
+Month_2 of transaction<br/>
+Transaction_1 Transaction_2 Transaction_3..... Transaction_n.<br/>
+Month_3 of transaction<br/>
+Transaction_1 Transaction_2 Transaction_3..... Transaction_n.<br/>
+.<br/>
+.<br/>
+.<br/>
+Customer N<br/>
+Month_1 of transaction<br/>
+Transaction_1 Transaction_2 Transaction_3..... Transaction_n.<br/>
+Month_2 of transaction<br/>
+Transaction_1 Transaction_2 Transaction_3..... Transaction_n.<br/>
+Month_3 of transaction<br/>
+Transaction_1 Transaction_2 Transaction_3..... Transaction_n.<br/>
 
 
-OUTPUT:
-Customer 1
-Reward point for Month_1: VALUE
-Reward point for month_2: VALUE
-Reward point for month_2: VALUE
-Total Reward Points: VALUE
+OUTPUT:<br/>
+Customer 1<br/>
+Reward point for Month_1: VALUE<br/>
+Reward point for month_2: VALUE<br/>
+Reward point for month_2: VALUE<br/>
+Total Reward Points: VALUE<br/>
