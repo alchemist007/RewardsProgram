@@ -1,0 +1,21 @@
+Customer 1
+January
+10 40 300 50
+February
+100 100 100 100
+March
+101 81 99 51
+Customer 2
+January
+120 10.99 299.99 99
+February
+120 120 120 120
+March
+101.12 1.99 55 78
+Customer 3
+January
+600 1050.99 2060.99 50
+February
+9.99 10.99 100.99 1001.99
+March
+60 2 80 99999.99
